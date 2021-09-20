@@ -18,7 +18,9 @@ Terms:
 
 Things to remember:
 1. Create a branch to make a copy of main and make edits to that copy
-    1a. Changes to that copy are called commits
-    1b. There is a commit message for eveyr commit
+    1.a. Changes to that copy are called commits
+    1.b. There is a commit message for eveyr commit
 2. Once all edits are done, create a pull request to merge that branch with main
-    2a. Pull requests have a descriptive message associated with it
+    2.a. Pull requests have a descriptive message associated with it
+    2.b. After the branch is merged with main, delete the branch
+        2.b.I. After branch merges, main has been updated with the changes from the branch
