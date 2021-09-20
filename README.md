@@ -23,4 +23,4 @@ Things to remember:
 2. Once all edits are done, create a pull request to merge that branch with main
     - 2.a. Pull requests have a descriptive message associated with it
     - 2.b. After the branch is merged with main, delete the branch
-     - 2.b.I. After branch merges, main has been updated with the changes from the branch
+      - 2.b.I. After branch merges, main has been updated with the changes from the branch
