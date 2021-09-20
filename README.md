@@ -10,4 +10,7 @@ Terms:
   - Commits
       - Saved changes is a commit
       - Every commit has a commit message (a description of why the change was made)
-      - 
+  - Pull request
+      - Propose your changes for someone to review and "pull in your contribution" and merge them into             their branch
+      - "Pull requests show 'diffs', or differences, of the content from both branches"
+            - "Changes, additions, and subtractions are shown in green and red"
